@@ -1,0 +1,10 @@
+.pregunta {
+  margin: 50px auto;
+}
+#effect {
+  padding: 1em;
+  border: 1px solid #333;
+  display: block;
+  max-width: 500px;
+  margin: 20px auto;
+}
